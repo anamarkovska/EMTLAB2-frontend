@@ -28,7 +28,7 @@ const BookAdd = (props) => {
     }
 
     const redirect = () => {
-        window.location.href="https://emt-library-193025.herokuapp.com/books"
+        window.location.href="https://library-emt-lab2-193025.herokuapp.com/books"
     }
 
 
